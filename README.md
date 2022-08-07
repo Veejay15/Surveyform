@@ -1,7 +1,7 @@
 # Surveyform
 Surveyform
  <p>Create a simple survey form in which after clicking submit will be routed to a thank you page. Following user stories should also be followed: </p>
-User Story #1: As a user, I want to see a title with id="title" in H1 sized text.
+<p>User Story #1: As a user, I want to see a title with id="title" in H1 sized text.</p>
 User Story #2: As a user, I want to see a short explanation with id="description" in P sized text.
 User Story #3: As a user, I want to see a form with id="survey-form".
 User Story #4: As a user, I want to be required to enter my name in a field with id="name". (Inside form element)
